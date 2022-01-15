@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Norbert.
+- 👀 I’m interested in HTML/C#
+- 📫 You can reach me in email: norbertszalkai990@gmail.com
